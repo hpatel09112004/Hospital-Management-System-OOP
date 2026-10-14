@@ -1,0 +1,17 @@
+# Build output
+build/
+out/
+cmake-build-*/
+hms
+hms.exe
+*.o
+*.d
+
+# Runtime data
+data/
+demo_data/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
